@@ -1,3 +1,5 @@
 # ML_CVTrainTool
 
-  HOG+SVM
+  File In and File Out, not about "Sensor" and "Real-Time".
+  
+  Alogrithms: HOG+SVM
